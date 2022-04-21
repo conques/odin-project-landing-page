@@ -13,5 +13,28 @@ header{
     list-style: none;
     display: flex;
     gap: 30px;
+}
+
+.a-nav{
     color: white;
+}
+
+.bar-1{
+    background-color: rgb(27, 8, 112);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+    padding: 20px 0px;
+}
+
+.bar-1-left{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+
+.segunda-img{
+    width: 500px;
+    height: 300px;
 }
